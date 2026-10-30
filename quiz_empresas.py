@@ -5,7 +5,7 @@
 # Para ejecutar:  python quiz_empresas.py
 #
 # CONSEJO: ve completando un TODO a la vez y ejecuta el archivo para ver como
-#          se va llenando la salida. Al inicio veras resultados vacios o en cero.
+#          se va llenando la salida. Al inicio veras resultados vacios 
 
 
 # 1) LA CLASE: representa UNA empresa (datos + comportamiento juntos)
